@@ -2,7 +2,7 @@ inputFile = open('input.txt','r')
 outputFile = open('output.txt','w')
 
 print ('Enter the key: ')
-key = raw_input()
+key = input()
 
 outputFile.write('Using key: {}\n'.format(key))
 
