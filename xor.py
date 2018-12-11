@@ -1,3 +1,5 @@
+#py 3
+
 inputFile = open('input.txt','r')
 outputFile = open('output.txt','w')
 
